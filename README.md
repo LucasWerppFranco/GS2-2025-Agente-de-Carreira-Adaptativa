@@ -44,3 +44,15 @@ export GEMINI_API_KEY="SUA_CHAVE_AQUI"
 setx GEMINI_API_KEY "SUA_CHAVE_AQUI"
 
 ```
+
+(Opcional) Definir modelo padrão
+
+```
+export GEMINI_MODEL="gemini-2.5-flash"
+```
+
+Rodando o Programa
+
+```
+python aca_agent.py
+```
