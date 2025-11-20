@@ -1,15 +1,17 @@
 # GS2-2025-Agente-de-Carreira-Adaptativa
 
+## Iniciando o programa
+
+Criar e ativar uma virtual environment
+
 - Linux / macOS
 
 ```
 python3 -m venv venv
 ```
-```
 
 - Windows (PowerShell)
 
-```
 ```
 source venv/bin/activate
 ```
