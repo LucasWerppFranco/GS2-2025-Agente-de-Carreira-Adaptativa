@@ -8,15 +8,10 @@ Criar e ativar uma virtual environment
 
 ```
 python3 -m venv venv
-```
-
-- Windows (PowerShell)
-
-```
 source venv/bin/activate
 ```
 
-Windows (PowerShell)
+- Windows (PowerShell)
 
 ```
 python -m venv venv
